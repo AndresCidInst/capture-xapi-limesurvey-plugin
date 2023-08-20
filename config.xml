@@ -17,4 +17,12 @@
     <compatibility>
         <version>6.2.2</version>
     </compatibility>
+
+    <updaters>
+        <updater>
+            <stable>0</stable>
+            <type>git</type>
+            <source>https://github.com/AndresCidInst/capture-xapi-limesurvey-plugin</source>
+        </updater>
+    </updaters>
 </config>
